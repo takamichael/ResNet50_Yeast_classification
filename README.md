@@ -1,6 +1,6 @@
 # ResNet50 Yeast classification
 
-Language used: python and Pytorch
+Language used: Python and Pytorch
 
 This is a ResNet50 Model that is tailored for my specific yeast data.
 Note the images imported are found in the UCSF severs. The data is NOT publicly available yet and therefore the link to access the data has been removed. 
